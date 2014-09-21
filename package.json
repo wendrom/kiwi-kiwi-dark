@@ -1,0 +1,14 @@
+{
+    "name": "kiwi-kiwi-dark",
+    "title": "Kiwi Kiwi Dark",
+    "description": "A delicious dark theme.",
+    "homepage": "https://github.com/wendrom/kiwi-kiwi-dark",
+    "version": "1.0.0",
+    "author": "Wendrom",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": ["theme", "dark"]
+}
